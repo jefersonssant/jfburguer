@@ -3,7 +3,7 @@
 O site apresenta um visual atrativo que pode despertar a sua fome, neste, foi desenvolvido apenas o frontend, há um campo de pesquisa para filtrar os hamburgueres de interesse do usuário, contudo, este campo é meramente ilustrativo, não há funcionalidade, existe, ainda, um campo de opções previamente cadastradas para o usuário. O objetivo do desenvolvimento deste site foi o treino das propriedades flex-box e grid-layout.
 ## Acesse o site
 <a href="https://jefersonssant.github.io/jfburguer/" target="_blank">Acesse o site clicando aqui</a>
-## Imgem 
+## Imagem 
 <img width="1920" height="2585" alt="screencapture-jefersonssant-github-io-jfburguer-2025-07-16-20_46_28" src="https://github.com/user-attachments/assets/7f57ff2c-2640-4bfe-98f2-c02d780b862c" />
 
 ## Tecnologias utilizadas
